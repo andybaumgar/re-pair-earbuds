@@ -6,10 +6,10 @@ Quickly re-pair earbuds when more than 2 devices are in use.
 Install homebrew:
 `https://brew.sh/`
 
-Then Install blueutil:
+Install blueutil:
 `brew install blueutil`
 
-identify earbuds:
+Identify earbuds:
 `blueutil --paired`
 
 change id in script below
