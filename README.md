@@ -12,4 +12,4 @@ Install blueutil:
 Identify earbuds:
 `blueutil --paired`
 
-change id in script below
+Change id in  repair_earbuds.sh
