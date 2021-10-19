@@ -1,12 +1,12 @@
 # re-pair-earbuds
 Quickly re-pair earbuds so more than 2 devices can be used.
 
-to install:
+## to install:
 
-Install homebrew
+Install homebrew:
 `https://brew.sh/`
 
-Then Install blueutil
+Then Install blueutil:
 `brew install blueutil`
 
 identify earbuds:
