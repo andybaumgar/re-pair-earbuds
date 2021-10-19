@@ -1,5 +1,5 @@
 # re-pair-earbuds
-Quickly re-pair earbuds so more than 2 devices can be used.
+Quickly re-pair earbuds when more than 2 devices are in use.
 
 ## Installation
 
